@@ -65,7 +65,7 @@ _tudo está em um eterno crescimento e atualização orgânica_
 - mas o melhor é quando vamos pra ... [Docker](https://roan-jingle-4d3.notion.site/Docker-4793783ce37d452fba2707cc83f96add). 
 - O que me inspirou a isso tudo [GitHub Guia Readme](https://roan-jingle-4d3.notion.site/GitHub-Readme-3788066759104b06bae39e8e17745f30).
 - Um dia vi e escrevi [Vídeos Aleatórios](https://roan-jingle-4d3.notion.site/Videos-every-day-2e90c510889a47e7a05ed01a7e7ea9a4).
-
+- Links que um dia achei [Úteis](https://roan-jingle-4d3.notion.site/Useful-1329a87008994cf7b1837f554e9c2dd2).
 
 ### ⚡ Curiosidades
 - Comecei a programar apenas na faculdade, antes não tinha nenhum conhecimento, e me apaixonei de verdade quando estava em um time;
