@@ -24,7 +24,7 @@ Meu objetivo é estudar tecnologias, ter uma base extremamente solida de fudamen
 - Desenvolvimento backend utilizando **.NET Framework, .NET Core, Spring Boot, NestJS, NodeJS e Serverless Framework**;
 - Desenvolvimento frontend utilizando **Windows Forms, Bootstrap, Angular, NestJS**;
 - Desenvolvimento mobile utilizando **Fluter**;
-- Infraestrutura utilizando: **AWS, Azure, Heruko**;
+- Infraestrutura utilizando: **AWS, Azure, Heroku**;
 - Bancos de dados utilizando: **MySQL, SQLServer, PostgreSQL**;
 - Ferramentas que eu utilizo: **Swagger, Docker, Figma, Postman, Insomnia, GitHub Actions, Grafana, Prometheus**.
 
